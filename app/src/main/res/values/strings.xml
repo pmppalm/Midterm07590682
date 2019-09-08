@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">Midterm 07590682</string>
+    <string name="facebook_login_text">Login To Fcaebook</string>
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="login_button_text">LOGIN</string>
+    <string name="story_text">Add to Story</string>
+    <string name="view_as_text">View As</string>
+    <string name="edit_profile_text">Edit Profile</string>
+    <string name="more_text">More</string>
+    <string name="goes_to_text">Goes to</string>
+    <string name="lives_in_text">Lives in</string>
+    <string name="from_text">From</string>
+    <string name="name_me" translatable="false">Wongsathorn Jaisin</string>
+    <string name="name_tech" translatable="false">Promlert Lovichit</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="login_fail_text">Invalid username or password</string>
+    <string name="bkk_text_th" translatable="false">กรุงเทพมหานคร</string>
+    <string name="sch_text" translatable="false">สวนกุหลาบวิทยาลัย</string>
+</resources>

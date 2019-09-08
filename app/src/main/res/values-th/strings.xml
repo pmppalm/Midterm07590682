@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_profile_text">แก้ไขโปรไฟล์</string>
+    <string name="facebook_login_text">ลงชื่อเข้าใช้เฟสบุ๊ค</string>
+    <string name="from_text">จาก</string>
+    <string name="goes_to_text">เคยศึกษาที่</string>
+    <string name="lives_in_text">อาศัยอยู่ที่</string>
+    <string name="login_button_text">ลงชื่อเข้าใช้</string>
+    <string name="more_text">เพิ่มเติม</string>
+    <string name="password_text">รหัสผ่าน</string>
+    <string name="story_text">เพิ่มในสตอรี่</string>
+    <string name="username_text">ชื่อผู้ใช้งาน</string>
+    <string name="view_as_text">ดูในมุมมองของ</string>
+    <string name="welcome_text">ยินดีต้อนรับ</string>
+    <string name="login_fail_text">ชื่อผู้ใช้งานหรือรหัสผ่านไม่ถูกต้อง</string>
+</resources>
